@@ -1,0 +1,11 @@
+# Ignore build output
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore environment configuration
+.env

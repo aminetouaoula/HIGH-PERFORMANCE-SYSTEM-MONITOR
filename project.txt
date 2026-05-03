@@ -1,0 +1,4 @@
+The Mission:
+We are building a High-Performance CLI System Monitor. It’s the perfect bridge from the Duke Fundamentals to your Performance Expert goal.
+
+The Functional Goal: A program that prints your CPU and RAM usage to the terminal every few seconds.
