@@ -4,5 +4,7 @@ format:
 	cargo clean
 	cargo fmt
 	cargo clippy
+dev:
+	cargo run 
 run:
 	cargo run --release
