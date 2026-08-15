@@ -8,3 +8,5 @@ dev:
 	cargo run 
 run:
 	cargo run --release
+test
+	cargo test
