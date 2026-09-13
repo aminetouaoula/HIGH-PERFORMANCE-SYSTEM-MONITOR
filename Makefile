@@ -10,3 +10,5 @@ run:
 	cargo run --release
 test
 	cargo test
+clean
+	cargo fmt
